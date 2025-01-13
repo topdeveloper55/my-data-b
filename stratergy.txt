@@ -1,0 +1,1 @@
+stop: max-20times, resting: 2 hours
