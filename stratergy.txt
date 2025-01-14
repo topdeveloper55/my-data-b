@@ -1,1 +1,3 @@
-stop: max-20times profit, other stop: max-1000runs, resting: 2 hours
+profit stop: profit == 20 times else if when it is thought to be peak
+lose stop: runs >= 900 && when it is thought to be peak
+resting: 2 hours
