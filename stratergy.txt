@@ -1,1 +1,1 @@
-stop: max-20times, resting: 2 hours
+stop: max-20times profit, other stop: max-1000runs, resting: 2 hours
