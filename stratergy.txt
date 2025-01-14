@@ -1,6 +1,5 @@
-profit stop: profit == 20 times
-other profit stop: When second upper peak comes
-lose stop: runs >= 900 && when it is thought to be upper peak
+profit stop: profit >= 10 times
+exception: runs >= 900 && when thought to be upper peak
 
-resting: lose profit >= 20 times && When it is thought to be lower peak
-other: runs >= 400 && when it is thought to be lower peak
+resting: lose profit >= 15 && when thought to be lower peak
+exception: runs >= 400 && when thought to be lower peak
