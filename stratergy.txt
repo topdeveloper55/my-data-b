@@ -1,3 +1,5 @@
 profit stop: profit == 20 times else if when it is thought to be upper peak
 lose stop: runs >= 900 && when it is thought to be upper peak
-resting: Until next lower peak comes
+
+resting: lose profit >= 20 times && When it is thought to be lower peak
+other: runs >= 400 when it is thought to be lower peak
