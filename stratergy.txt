@@ -1,5 +1,5 @@
 profit stop: profit >= 10 times
 exception: runs >= 900 && when thought to be upper peak
 
-resting: lose profit >= 15 && when thought to be lower peak
+resting: lose profit >= 15
 exception: runs >= 400 && when thought to be lower peak
